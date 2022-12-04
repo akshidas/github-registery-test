@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akshidas/github-registery-test.git"
+    "url": "git+https://github.com/akshidas/github-registery-test.git",
+    "akshidas:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "learning"
